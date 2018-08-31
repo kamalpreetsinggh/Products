@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ADOCRUDApplication.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <table border="1" align="center" width="100%">
+        <thead>
+            <tr style="text-align: center; font-size: large; font-family: Calibri;">
+                <td>Product ID</td>
+                <td>Product Name</td>
+                <td>Product Price</td>
+                <td>Product Category</td>
+                <td>Creation Date</td>
+            </tr>
+        </thead>
+        @foreach (var product in Model)
+        {
+        <tr style="text-align: center; font-size: large; font-family: Calibri;">
+            <td>@product.ProductId</td>
+            <td>@product.ProductName</td>
+            <td>@product.ProductPrice</td>
+            <td>@product.ProductCategoryID</td>
+            <td>@product.DateCreated</td>
+        </tr>
+        }
+    </table>
+</div>
+

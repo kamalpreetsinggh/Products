@@ -1,0 +1,12 @@
+C:\DotNet\ADOCRUDApplication\BAL\bin\Debug\netcoreapp2.1\ADOCRUDApplication.Models.dll
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\DotNet\ADOCRUDApplication\BAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\DotNet\ADOCRUDApplication\BAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\DotNet\ADOCRUDApplication\BAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\DotNet\ADOCRUDApplication\BAL\bin\Debug\netcoreapp2.1\ADOCRUDApplication.Models.pdb
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\DotNet\ADOCRUDApplication\BAL\obj\Debug\netcoreapp2.1\DAL.pdb

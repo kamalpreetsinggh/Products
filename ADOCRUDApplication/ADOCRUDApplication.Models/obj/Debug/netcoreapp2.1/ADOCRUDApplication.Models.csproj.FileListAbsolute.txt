@@ -1,0 +1,8 @@
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\bin\Debug\netcoreapp2.1\ADOCRUDApplication.Models.deps.json
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\bin\Debug\netcoreapp2.1\ADOCRUDApplication.Models.dll
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\bin\Debug\netcoreapp2.1\ADOCRUDApplication.Models.pdb
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\obj\Debug\netcoreapp2.1\ADOCRUDApplication.Models.csproj.CoreCompileInputs.cache
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\obj\Debug\netcoreapp2.1\ADOCRUDApplication.Models.AssemblyInfoInputs.cache
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\obj\Debug\netcoreapp2.1\ADOCRUDApplication.Models.AssemblyInfo.cs
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\obj\Debug\netcoreapp2.1\ADOCRUDApplication.Models.dll
+C:\DotNet\ADOCRUDApplication\ADOCRUDApplication.Models\obj\Debug\netcoreapp2.1\ADOCRUDApplication.Models.pdb
